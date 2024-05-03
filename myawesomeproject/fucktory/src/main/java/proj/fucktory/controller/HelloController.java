@@ -1,4 +1,4 @@
-package proj.fucktory;
+package proj.fucktory.controller;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;
